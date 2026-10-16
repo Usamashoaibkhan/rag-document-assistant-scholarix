@@ -189,11 +189,10 @@ Use the evaluation results to investigate retrieval quality and answer generatio
 
 ## 👨‍💻 Author
 
-**Usama Shoaib Khan**
+**Usama Shoaib**
 
 GitHub: [@Usamashoaibkhan](https://github.com/Usamashoaibkhan)
 
-**Project Repository:** [RAG Document Assistant — Scholarix](https://github.com/Usamashoaibkhan/rag-document-assistant-scholarix)
 
 ---
 
